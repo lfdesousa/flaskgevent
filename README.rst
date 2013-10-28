@@ -13,6 +13,7 @@ Siege results on static json page under gunicorn
 This is a simple test, would get better performance under heavy load by using gunicorn under apache as a proxy passthrough, see gunicorn documentation.
 
 ::
+
   ** SIEGE 3.0.1
   ** Preparing 500 concurrent users for battle.
   The server is now under siege...
