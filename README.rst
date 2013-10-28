@@ -23,11 +23,11 @@ This is a simple test, would get better performance under heavy load by using gu
   Availability:		      100.00 %
   Elapsed time:		       29.46 secs
   Data transferred:	        0.61 MB
-  Response time:		        0.03 secs
+  Response time:	        0.03 secs
   Transaction rate:	      945.55 trans/sec
   Throughput:		        0.02 MB/sec
   Concurrency:		       23.90
-  Successful transactions:       27856
+  Successful transactions:     27856
   Failed transactions:	           0
   Longest transaction:	        3.13
   Shortest transaction:	        0.00
