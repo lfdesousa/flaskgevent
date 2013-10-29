@@ -47,7 +47,7 @@ def _setup_logger(stdout = False):
     app.logger.debug("Debug is %s" % (app.config['DEBUG'],))
 
 @app.route('/')
-def static():
+def index():
     """Get static json data"""
     data = { "somekey" : "somedata" }
     resp = make_response(json.dumps(data), 200)
